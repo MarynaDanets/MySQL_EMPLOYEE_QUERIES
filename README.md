@@ -1,4 +1,3 @@
-<img width="806" alt="Employees_Structure" src="https://github.com/user-attachments/assets/3c8010da-bd21-48cc-8726-2edd41da4e9c">
 # MySQL Employee Database Queries Portfolio
 
 This portfolio showcases my proficiency in database management, particularly in working with MySQL databases. The project includes a collection of SQL queries designed to interact with various aspects of a relational database, demonstrating my ability to manipulate and retrieve data efficiently.
@@ -19,3 +18,6 @@ This portfolio showcases my proficiency in database management, particularly in 
 - **Window Functions:** Utilizing window functions like `ROW_NUMBER()`, `RANK()`, and `LEAD()` to perform advanced data analysis across specific partitions.
 
 This portfolio reflects my ability to work effectively with relational databases, providing solutions to real-world data management and analysis challenges.
+
+## The Employees Schema:
+<img width="806" alt="Employees_Structure" src="https://github.com/user-attachments/assets/3c8010da-bd21-48cc-8726-2edd41da4e9c">
